@@ -1,2 +1,1 @@
-# passwordgen
-Module 3 project 
+# Password Generator Starter Code
