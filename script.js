@@ -115,3 +115,5 @@ function checkForNull(valueToCheck)
     return false;
   }
 }
+
+//lol i am here at like 2 am. Morning time fifi please delete this before making the coffee
